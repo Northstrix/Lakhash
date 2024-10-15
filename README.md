@@ -1,5 +1,7 @@
 # Lakhash
-An Experimental Cloud Storage Service Featuring Client-Side Encryption for Enhanced Data Security.
+An experimental cloud storage service featuring client-side encryption for enhanced data security, built using Next.js.
+
+Check it out at https://lakhash.netlify.app
 
 ![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Welcoming%20warning.png?raw=true)
 
