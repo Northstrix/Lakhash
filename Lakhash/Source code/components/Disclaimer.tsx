@@ -45,7 +45,7 @@ const Disclaimer: React.FC<DisclaimerProps> = ({ onAccept }) => {
         <div className="normalButton">
           <input type="checkbox" id="nb-check" checked={isChecked} onChange={handleCheckboxChange} />
           <label htmlFor="nb-check" className="normalButton__check">
-            I understand, and I'm OK with that
+            I understand, and I&apos;m OK with that
           </label>
           <button onClick={handleButtonClick} className="normalButton__button">
             {isChecked ? 'Continue' : 'Hold on a moment'}
