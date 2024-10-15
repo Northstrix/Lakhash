@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --container-height: 498px;
+  --scroller-color: #28afb0;
+  --line-color: #28afb0;
+  --background-color: #eee5e5;
+  --font-color: #37392e;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Background Image Class */
+.background-image {
+  background-image: url('/pexels-kelly-1179532-2815170.jpg'); /* Updated path */
+  background-size: cover;
+  background-position: center;
+}
+
+.repeating-backgr {
+  background-image: url('/ChristmasTreesPattern.png'); /* Path to the image */
+  background-size: 128px 128px; /* Set the size for the repeatable pattern */
+  background-repeat: repeat; /* Repeat the background */
+}
+
+.repeating-backgr-for-drag-and-drop {
+  background-image: url('/ChristmasTreesPattern.png'); /* Path to the image */
+  background-size: 107px 107px; /* Set the size for the repeatable pattern */
+  background-repeat: repeat; /* Repeat the background */
+}
