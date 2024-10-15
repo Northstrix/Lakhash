@@ -1,6 +1,44 @@
 # Lakhash
 An Experimental Cloud Storage Service Featuring Client-Side Encryption for Enhanced Data Security.
 
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Welcoming%20warning.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Empty%20Login%20form.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Empty%20login%20form%20(sign%20up%20part).png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Login%20Form.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Sign-Up-optimized-ezgif-6-a0c0931d9f.gif?raw=true?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/The%20username%20is%20taken%20notification.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Underlying%20Cryptography.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Filetype%20classification%20table.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/My%20Files%20tab.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/chrome_JenZyoYT8z-ezgif.com-video-to-gif-converter.gif?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Confirm%20file%20removal%20pop-up.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Drag-and-drop%20element.gif?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Mobile-style%20menu%20on%20ultrawide%20screen.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Password%20Vault.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Password%20Vault%20Record%20Encryption.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Authentication%20error%20for%20password%20vault.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Profile%20Info.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Credit1.png?raw=true)
+
+![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Credit2.png?raw=true)
+
 The existence of this project (at least in its current form) wouldn't've been possible without the following:
 
 Photo by [Kelly](https://www.pexels.com/@kelly-1179532/) from [Pexels](https://www.pexels.com/photo/bird-s-eye-view-of-city-during-daytime-2815170/)
