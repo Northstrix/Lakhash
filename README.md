@@ -5,6 +5,8 @@ The lakhash source code is also available on the SourceFroge: https://sourceforg
 
 Check it out at https://lakhash.netlify.app
 
+The related Medium article can be found at https://medium.com/@Northstrix/2be1c60ec6e8
+
 ![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Welcoming%20warning.png?raw=true)
 
 ![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Empty%20Login%20form.png?raw=true)
