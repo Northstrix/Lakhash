@@ -1,6 +1,8 @@
 # Lakhash
 An experimental cloud storage service featuring client-side encryption for enhanced data security, built using Next.js.
 
+The lakhash source code is also available on the SourceFroge: https://sourceforge.net/projects/lakhash/
+
 Check it out at https://lakhash.netlify.app
 
 ![image text](https://github.com/Northstrix/Lakhash/blob/main/media/Welcoming%20warning.png?raw=true)
