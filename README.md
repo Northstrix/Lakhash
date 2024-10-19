@@ -1,7 +1,7 @@
 # Lakhash
 An experimental cloud storage service built with Next.js, featuring client-side file encryption, a dedicated password vault, advanced integrity verification functionality, and a convenient UI.
 
-The Lakhash source code is also available on [SourceFroge](https://sourceforge.net/projects/lakhash/) and [Codeberg](https://codeberg.org/Northstrix/Lakhash/).
+The Lakhash source code is also available on [SourceForge](https://sourceforge.net/projects/lakhash/) and [Codeberg](https://codeberg.org/Northstrix/Lakhash/).
 
 Check it out at https://lakhash.netlify.app
 
